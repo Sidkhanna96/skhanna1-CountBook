@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountBook2</string>
+    <string name="addCounter">Add Counter</string>
+    <string name="nameCounter">Enter Name of Counter</string>
+    <string name="title_activity_counter">CounterActivity</string>
+    <string name="Zero">0</string>
+    <string name="OK">OK</string>
+    <string name="comment">comment</string>
+    <string name="title_activity_counter_widget">counterWidgetActivity</string>
+    <string name="increment">+</string>
+    <string name="Decrement">-</string>
+    <string name="Reset">Reset</string>
+    <string name="Delete">Delete</string>
+    <string name="Name">Name</string>
+    <string name="Date">Date</string>
+</resources>

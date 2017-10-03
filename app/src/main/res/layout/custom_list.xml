@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="1.24"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/Date"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="0.85"
+        android:text="Date"
+        android:longClickable="true" />
+
+    <TextView
+        android:id="@+id/currentVal"
+        android:layout_width="62dp"
+        android:layout_height="50dp"
+        android:text="Current Value" />
+
+</LinearLayout>
